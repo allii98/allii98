@@ -27,7 +27,7 @@ I'm a web developer, I like new things. The programming languages that I am prof
 ### Let's connect!
 <p>
     <a href="https://allii98.github.io/" target="blank"><img src="https://img.shields.io/badge/portfolio-allii98-blue" /></a>
-    <a href="https://www.linkedin.com/in/ali-731129173" target="blank"><img src="https://img.shields.io/badge/linkedin-ali--731129173-blue" /></a>
+    <a href="https://www.linkedin.com/in/ali-731129173" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a>
     <a href="https://twitter.com/Alii_all98" target="blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAlii_all98" /></a>
     <a href="https://www.paypal.com/paypalme/allii1998" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
