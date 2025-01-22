@@ -10,7 +10,7 @@ I'm a web developer, I like new things. The programming languages that I am prof
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on RPA </br>
-    - 🌱 I’m currently learning PHP, Javascript </br>
+    - 🌱 I’m currently learning Go, Python, PHP, Javascript </br>
     - 👯 I’m looking to collaborate on Automation Project, Web app, Mobile Apps. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
